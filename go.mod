@@ -1,4 +1,4 @@
-module github.com/roman-mazur/design-practice-2-template
+module github.com/StepanKobrii18321832/lab2_29_04_2020
 
 go 1.14
 
